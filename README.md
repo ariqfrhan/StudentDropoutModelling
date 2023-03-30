@@ -1,2 +1,2 @@
 # StudentDropoutModelling
-Data Scientist Internship Project
+BCC Data Scientist Internship Project
